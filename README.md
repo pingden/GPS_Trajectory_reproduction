@@ -53,7 +53,7 @@
 
 ### 2.3、项目实现
 
-> 项目体验地址[GPS数据提取及轨迹重现](https://pingden.github.io/GPS_Leaflet/))
+> 项目体验地址[GPS数据提取及轨迹重现](https://pingden.github.io/GPS_Leaflet/)
 >
 > 查看项目实现详情与源码请转到[详情页，点击跳转](https://pingden.github.io/archives/5bb786c7.html)
 
