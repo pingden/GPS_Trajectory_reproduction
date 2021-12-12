@@ -2,9 +2,9 @@
 
 > 本项目分为两个版本：
 >
-> ​	1、基于百度地图API的轨迹快速重现
+> ​	1、基于百度地图API的轨迹快速重现，项目体验地址：[GPS轨迹重现在线版](https://pingden.github.io/GPS/GPS_Baidu/)
 >
-> ​	2、基于Leaflet的状态及轨迹重现
+> ​	2、基于Leaflet的状态及轨迹重现，项目体验地址：GPS数据提取及轨迹重现](https://pingden.github.io/GPS/GPS_Leaflet/)
 >
 > 两者均采用在线地图，都需要Internet的支持。
 
@@ -29,6 +29,8 @@
 
 ### 1.3、项目实现
 
+> 项目体验地址：[GPS轨迹重现在线版](https://pingden.github.io/GPS/GPS_Baidu/)
+>
 > 查看项目实现详情与源码请转到[详情页，点击跳转](https://pingden.github.io/archives/5bb786c7.html)
 
 
@@ -53,7 +55,7 @@
 
 ### 2.3、项目实现
 
-> 项目体验地址[GPS数据提取及轨迹重现](https://pingden.github.io/GPS_Leaflet/)
+> 项目体验地址[GPS数据提取及轨迹重现](https://pingden.github.io/GPS/GPS_Leaflet/)
 >
 > 查看项目实现详情与源码请转到[详情页，点击跳转](https://pingden.github.io/archives/5bb786c7.html)
 
